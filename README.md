@@ -25,6 +25,3 @@ As some of videos might be lengthy I provide a quick estimate of the input token
 
 Run the script and follow the prompts to analyze a YouTube video or a local transcript file. If Youtube is blocking your IP address, you can use a VPN to bypass the block or use one of the .csv files to try it out.
 
-# Reference: 
-
-Partial Output from Instructor: https://python.useinstructor.com/hub/youtube_clips/
