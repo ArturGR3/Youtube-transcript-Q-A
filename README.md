@@ -1,13 +1,17 @@
 # YouTube Transcript Analyzer
 
 ##  Purpose
-When it comes to learning new things, I find that watching YouTube videos is one of the most effective ways to do so. Sometimes it might be usefull to get a sense of the main topics that are being discussed. This script provides a convenient way to analyze YouTube video transcripts using LLM, providing a list of main topics discussed in the video with a short description and time stamps. It also provides a way to ask questions about the video content and receive AI-generated answers based on the transcript. On-top of that it provides youtube link with timestamp to the parts of the video where the answe to the question is found.
+When it comes to learning new things, I find that watching YouTube videos is one of the most effective ways to do so. Sometimes it might be usefull to get a sense of the main topics that are being discussed. This script provides a convenient way to analyze YouTube video transcripts using LLM, providing a list of main topics discussed in the video with a short description and time stamps. It also provides a way to ask questions about the video content and receive AI-generated answers based on the transcript. On-top of that it provides youtube link with timestamp to the parts of the video where the answer to the question is found.
 
 As some of videos might be lengthy I provide a quick estimate of the input tokens and the cost of the API call.
 
 ## Video Demo
 
+<<<<<<< HEAD
 https://github.com/user-attachments/assets/88ed975b-5c4f-45ac-83f4-33db253f50cf
+=======
+![Demo](https://github.com/user-attachments/assets/88ed975b-5c4f-45ac-83f4-33db253f50cf)
+>>>>>>> 5a121ea (demov)
 
 
 ## Key Features
