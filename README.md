@@ -7,8 +7,7 @@ As some of videos might be lengthy I provide a quick estimate of the input token
 
 ## Video Demo
 
-https://github.com/user-attachments/assets/88ed975b-5c4f-45ac-83f4-33db253f50cf 
-
+https://github.com/user-attachments/assets/6832968b-e99c-42e5-8bb3-e82d480dc90c
 
 ## Key Features
 
